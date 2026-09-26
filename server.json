@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/twilio",
   "title": "Twilio",
   "description": "Twilio MCP Pack — send SMS, list messages, make calls via Twilio REST API.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/twilio",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-twilio",

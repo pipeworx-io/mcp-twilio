@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-twilio",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Twilio MCP Pack — send SMS, list messages, make calls via Twilio REST API.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-928c580ee6128c20bcc90b28cf8a5df4b962741d125d8675cfff28b1f3af3896",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-904bb2646a55d53e3bbe4f60ca3bd2bf0f97d0b9ceb3a811abd33651d741255c",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
